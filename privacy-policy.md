@@ -1,103 +1,141 @@
-Privacy Policy – [Roasty]
+Privacy Policy - Roasty
 
-Last updated: [31.12.2025]
+Last updated: 31 December 2025
+App name: Roasty
+Developer: Roasty pl
+Contact email: roasty.app.official@gmail.com
 
-This Privacy Policy describes how [Roasty] (“the App”) collects, uses, and protects information when you use the App.
-
-Developer: [Lukasz]
-Contact email: [roasty.app.official@gmail.com]
+This Privacy Policy explains how Roasty (“the App”, “we”, “us”) collects, uses, and protects information when you use the App.
 
 By using the App, you agree to this Privacy Policy.
 
-1. Information we collect
 
-The App may collect and process the following types of data:
+---
 
-a) Account and basic user data
+1) Information we collect
 
-User identifier (e.g. account ID)
+We collect information that is necessary to operate the App.
 
-Nickname or display name (if provided)
+A. Account & profile data
 
-Profile image (if provided)
+User identifier (e.g., account ID)
 
-b) User-generated content
+Nickname / display name
 
-Short audio recordings created within the App
+Profile image / avatar (if you upload one)
 
-Text data generated from user input or app functionality
 
-c) Technical and usage data
+B. Voice & user content
 
-App activity and interaction data
+Short audio recordings you create in the App (voice rounds)
 
-Device information (such as operating system and app version)
+Optional text derived from your use of the App (for example, if transcription is enabled)
 
-Log data and error reports for stability and security purposes
 
-2. How we use the information
+C. Technical & usage data
 
-Collected data is used to:
+App activity (basic events required to run features)
 
-Provide and operate core app functionality
+Device and app information (OS version, device model, app version)
 
-Enable communication features inside the App
+Diagnostics and crash/error data (to improve stability and security)
 
-Maintain app stability, security, and performance
 
-Improve user experience and fix technical issues
 
-Respond to user support requests
+---
+
+2) How we use information
+
+We use the collected information to:
+
+Provide core functionality (game flow, rounds, results)
+
+Process voice rounds as needed to deliver App features
+
+Maintain security, prevent abuse, and troubleshoot issues
+
+Improve performance and reliability
+
+Respond to support requests
+
 
 We do not sell personal data.
 
-3. Data sharing
 
-We may share data only with trusted service providers that are necessary to operate the App, such as:
+---
 
-Cloud backend and database services
+3) Voice processing
 
-Infrastructure and hosting providers
+To provide voice-based features, the App may upload your voice round audio for automated processing necessary to operate the feature (for example, to generate text and/or generate round results).
 
-Analytics or crash-reporting tools (if enabled)
 
-All providers process data solely on our behalf and according to applicable data protection laws.
+---
 
-We may disclose data if required by law or to protect the safety and integrity of the App.
+4) Sharing of data
 
-4. Data retention
+We share data only with service providers that help us operate the App (processors), such as:
 
-We retain data only for as long as necessary to provide the App’s functionality and to comply with legal or security obligations.
-Data may be deleted or anonymized when no longer required.
+Cloud backend/database and file storage providers
 
-5. Security
+Speech-to-text processing providers (if enabled)
 
-We apply reasonable technical and organizational measures to protect user data.
-However, no digital service can guarantee absolute security.
+Crash reporting/diagnostics providers (if enabled)
 
-6. Children
 
-The App is not intended for children under the age of 13.
-If we become aware that data from a child under 13 has been collected, we will take steps to remove it.
+These providers process data on our behalf and according to applicable data protection requirements.
 
-7. User rights
+We may disclose data if required by law or to protect the safety, rights, and integrity of the App.
 
-Depending on your location, you may have the right to:
 
-Access your personal data
+---
 
-Request correction or deletion
+5) Data retention
 
-Object to or restrict processing
+We retain data only as long as necessary to:
 
-Requests can be sent to: [roasty.app.official@gmail.com]
+provide the App’s functionality, and
 
-8. Changes to this policy
+meet legal, security, or operational requirements.
 
-We may update this Privacy Policy from time to time.
-The latest version will always be available at this URL with an updated date.
 
-9. Contact
+You can request deletion as described below.
 
-If you have any questions about this Privacy Policy, contact us at:
-[roasty.app.official@gmail.com]
+
+---
+
+6) Security
+
+We use reasonable technical and organizational measures to protect data. However, no system can guarantee absolute security.
+
+
+---
+
+7) Children
+
+Roasty is not intended for children under 13. If we learn we have collected data from a child under 13, we will take steps to delete it.
+
+
+---
+
+8) Your rights & requests
+
+Depending on your location, you may have the right to access, correct, delete, or restrict processing of your personal data.
+
+To make a request, contact: roasty.app.official@gmail.com
+
+
+---
+
+9) Changes to this policy
+
+We may update this Privacy Policy from time to time. The latest version will always be available at the Policy URL above with an updated “Last updated” date.
+
+
+---
+
+10) Contact
+
+Questions about this Privacy Policy: roasty.app.official@gmail.com
+
+
+---
